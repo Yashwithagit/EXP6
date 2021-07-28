@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<contents>
+    <cities>
+        <cname>mangalore</cname>
+        <Temp>56</Temp>
+    </cities>
+    <cities>
+        <cname>udupi</cname>
+        <Temp>35</Temp>
+    </cities>
+    <cities>
+        <cname>shimoga</cname>
+        <Temp>34</Temp>
+    </cities>
+</contents>
